@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "MinimaxAI/1.0.0": {
+        "runtime": {
+          "MinimaxAI.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MinimaxAI/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
